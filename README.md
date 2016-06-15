@@ -1,4 +1,4 @@
-# Device tree for Samsung Grand Prime SM-G530H (XCU)
+# MaxiCM LP Device tree for Samsung Grand Prime SM-G530H (XCU)
 
 ### Specs (Physically inspected):
   - CPU: Qualcomm MSM8216 Snapdragon 410, 1200 MHz
